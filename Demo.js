@@ -1,4 +1,4 @@
 console.log('chec')
-console.log('ok');
+console.log('oks');
 console.log('sksk');
 
