@@ -7,3 +7,4 @@ console.log('ee');
 console.log('hy');
 console.log('fo');
 console.log('pop');
+var a = 10;
