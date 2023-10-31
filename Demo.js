@@ -1,4 +1,3 @@
-var cg = 22;
 console.log('dd')
 console.log('dd');
 console.log('ioi');
