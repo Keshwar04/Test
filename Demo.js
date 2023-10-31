@@ -1,4 +1,4 @@
-var cg = 8;
+var cg = 20;
 console.log('dd')
 console.log('dd');
 console.log('ioi');
