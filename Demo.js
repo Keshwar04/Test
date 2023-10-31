@@ -10,3 +10,5 @@ var a = 10;
 var b = 70;
 var d = 90;
 var c = 800;
+
+var f = 1000;
