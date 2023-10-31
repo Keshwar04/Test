@@ -1,3 +1,4 @@
+var cg = 8;
 console.log('dd')
 console.log('dd');
 console.log('ioi');
