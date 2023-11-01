@@ -13,4 +13,4 @@ var d = 90;
 var c = 800;
 var e = 900;
 
-var f = 1300;
+var f = 1500;
