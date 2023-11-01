@@ -13,4 +13,3 @@ var c = 800;
 var e = 900;
 
 var f = 1000;
-var g = 888;
