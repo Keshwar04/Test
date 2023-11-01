@@ -12,4 +12,4 @@ var d = 90;
 var c = 800;
 var e = 900;
 
-var f = 1200;
+var f = 1300;
