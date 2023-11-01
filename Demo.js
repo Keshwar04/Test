@@ -13,3 +13,4 @@ var c = 800;
 var e = 900;
 
 var f = 1100;
+var gk = 100;
