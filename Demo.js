@@ -13,7 +13,7 @@ var d = 90;
 var c = 800;
 var e = 900;
 
-var f = 1700;
+var f = 1500;
 var kj = 900;
 var jh = 800;
 var ho=90;
