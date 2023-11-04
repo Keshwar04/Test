@@ -18,4 +18,3 @@ var kj = 900;
 var jh = 800;
 var ho=9900;
 console.log('loki');
-console.log('loki2');
