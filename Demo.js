@@ -17,3 +17,4 @@ var f = 1500;
 var kj = 900;
 var jh = 800;
 var ho=990;
+var kok = 989;
