@@ -1,7 +1,7 @@
 console.log('ds')
 console.log('dd');
 console.log('ioi');
-var hg = 'ok'
+var hg = 'oks'
 console.log('cd');
 console.log('ee');
 console.log('hy');
