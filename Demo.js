@@ -14,3 +14,4 @@ var c = 800;
 var e = 900;
 
 var f = 1700;
+var kj = 900;
