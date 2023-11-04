@@ -1,7 +1,7 @@
 console.log('ds')
 console.log('dd');
 console.log('ioi');
-var hg = 'oks'
+var hg = 'ok'
 console.log('cd');
 console.log('ee');
 console.log('hy');
@@ -18,3 +18,4 @@ var kj = 900;
 var jh = 800;
 var ho=9900;
 console.log('loki');
+console.log('loki2');
