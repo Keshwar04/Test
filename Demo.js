@@ -13,4 +13,6 @@ var d = 90;
 var c = 800;
 var e = 9000;
 
-var f = 1300;
+var f = 1700;
+var kj = 900;
+var jh = 800;
